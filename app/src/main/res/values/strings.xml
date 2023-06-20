@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppSomar</string>
+    <string name="digite_um_n_mero_inteiro">Digite um número inteiro:</string>
+    <string name="calcular">CALCULAR</string>
+
+</resources>
